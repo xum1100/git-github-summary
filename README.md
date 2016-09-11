@@ -1,2 +1,2 @@
 # git-github-summary
-git与gittub总结
+git与github总结
